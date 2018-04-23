@@ -4,9 +4,10 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase();
 }
-function logShout(string) { const spy = 'console.log()'.toUpperCase; }
+function logShout(string) { 
+  const spy = 'console.log()'.toUpperCase; 
 }
 function logWhisper(string) {
-  spy('hello');
+  const spy = 'console.log()'.toLowerCase;
 } 
 
