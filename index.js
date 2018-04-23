@@ -16,7 +16,11 @@ var mixedCase = "I love you, Grandma."
 
 function sayHiToGrandma(string) {
   if (string === lowerCase) {
-    return('')
+    return("I can't hear you!");
+  
+    
+    
+  
     
   }
 }
