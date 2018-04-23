@@ -11,3 +11,5 @@ function logWhisper(string) {
   console.log((string).toLowerCase());
 } 
 var lowerCase = 'hello'
+var upperCase = "HELLO"
+var mixedCase = "I "
