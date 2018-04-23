@@ -8,6 +8,6 @@ function logShout(string) {
   console.log((string).toUpperCase()); 
 }
 function logWhisper(string) {
-  const spy = 'console.log()'.toLowerCase();
+  console.log((string).toLowerCase());
 } 
 
